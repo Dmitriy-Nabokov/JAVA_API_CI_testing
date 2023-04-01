@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/pc61gaa2pii0236l/branch/main?svg=true)](https://ci.appveyor.com/project/Dmitriy-Nabokov/java-api-ci-testing/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/q641y475j96w9mde/branch/main?svg=true)](https://ci.appveyor.com/project/Dmitriy-Nabokov/java-api-ci-testing/branch/main)
